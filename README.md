@@ -1,2 +1,5 @@
 # Password-Generator
-Simple Python Password Generator with GUI
+
+A simple Password Generator with GUI in Python using CustomTkinter
+
+![Screenshot](Screenshot.png)
